@@ -15,10 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Hash Table
 |  |
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
 | ------- |
@@ -27,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
