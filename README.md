@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1927-sum-game](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/1927-sum-game) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1927-sum-game](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/1927-sum-game) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Counting
 |  |
@@ -52,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Greedy
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/1927-sum-game) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
