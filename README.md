@@ -64,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/1927-sum-game) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
