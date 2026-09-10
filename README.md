@@ -74,5 +74,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/0234-palindrome-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Two Pointers
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
