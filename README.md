@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3483-unique-3-digit-even-numbers) |
 ## Array
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
@@ -88,4 +91,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/0234-palindrome-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/dharnishkris5-maker/Leetcode-probelms/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
